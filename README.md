@@ -1,9 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Shivam, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Delhi, India</b>. </p>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)](https://github.com/theetherGit)
 
 
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)](https://github.com/theetherGit/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theetherGit&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theetherGit&theme=tokyonight)
