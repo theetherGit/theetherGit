@@ -1,4 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)](https://github.com/theetherGit)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=python,dhango,flask,js,ts,svelte,tailwind,angular,css,html&includeNames=true)](https://github.com/theetherGit/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theetherGit&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theetherGit&theme=tokyonight)
