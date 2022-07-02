@@ -2,6 +2,9 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits" align="left"/>
   <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=basic" align="right"/>
 </div>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theetherGit&theme=tokyonight" />
+</div>
 <!-- <details>
   <div align="left">
     [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)]      (https://github.com/theetherGit)
