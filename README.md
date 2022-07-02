@@ -1,11 +1,15 @@
-<details>
+<div>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits" align="left"/>
+  <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=basic" align="right"/>
+</div>
+<!-- <details>
   <div align="left">
     [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)]      (https://github.com/theetherGit)
   </div>
   <div align="right">
     [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic)](https://moon-svg.minung.dev)
   </div>
-</details>
+</details> -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theetherGit&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theetherGit&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=theetherGit&theme=tokyonight)
