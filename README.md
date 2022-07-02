@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Shivam, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Delhi, India</b>. </p>
+<p>Welcome to my page! </br> I'm Shivam, Fullstack developer from <b>Delhi, India</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/>. </p>
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)](https://github.com/theetherGit/)
 <h3>Things I code with</h3>
 <p> 
-   <img alt="Python" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
