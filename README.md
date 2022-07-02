@@ -1,7 +1,15 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits)](https://github.com/theetherGit)
+
+<p>Welcome to my page! </br> I'm Shivam, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Delhi, India</b>. </p>
+
+
+<details>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theetherGit&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theetherGit&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=theetherGit&theme=tokyonight)
+</details>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theether0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theethero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theether0) 
