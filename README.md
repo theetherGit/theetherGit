@@ -1,4 +1,4 @@
-<div>
+<div class="row">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits" align="left"/>
   <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=basic" align="right"/>
 </div>
