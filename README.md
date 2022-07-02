@@ -12,13 +12,23 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theetherGit&no-bg=true&margin-w=4&margin-1)
 
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   36.90 %
+Python       2 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+Go           1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Text         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
+
+-------
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
