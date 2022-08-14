@@ -74,14 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 August 2022 - To: 10 August 2022
-
-JavaScript                       █████████████████▒░░░░░░░   69.84 %
-JSON                             ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-GitIgnore file                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Svelte                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Markdown                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-TypeScript                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
