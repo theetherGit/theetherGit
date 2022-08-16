@@ -74,7 +74,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 August 2022 - To: 15 August 2022
+
+Svelte                           █████████████████████▒░░░   84.93 %
+JSON                             █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Markdown                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+GitIgnore file                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+CSS                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
