@@ -42,11 +42,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 10 November 2022
+From: 04 November 2022 - To: 11 November 2022
 
-Python                           ███████████████████████▓░   95.24 %
-TypeScript                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-GitIgnore file                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python                           ████████████████████████▒   97.82 %
+GitIgnore file                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
