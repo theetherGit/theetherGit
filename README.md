@@ -3,7 +3,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- :open_hands: I'm shivam meens from Delhi, India.
+- :open_hands: I'm shivam meena from Delhi, India.
 - :computer: I'm a Web Developer, code in Svelte, TS/JS and Python.
 - :pencil: I write on dev.to by the name [@theether0](https://dev.to/theether0).
 - :bell: I am working on Project Management and Bug Tracking System.
