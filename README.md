@@ -42,10 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
-
-Svelte                       ████████████████░░░░░░░░░   64.08 %
-TypeScript                   █████████░░░░░░░░░░░░░░░░   35.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
