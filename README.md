@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 01 January 2023
+From: 26 December 2022 - To: 02 January 2023
 
 Svelte                           ████████▓░░░░░░░░░░░░░░░░   34.67 %
 TypeScript                       ███████▒░░░░░░░░░░░░░░░░░   29.55 %
