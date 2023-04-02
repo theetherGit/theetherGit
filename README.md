@@ -42,10 +42,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 31 March 2023
+From: 25 March 2023 - To: 01 April 2023
 
-Python                   ██████████████████████▒░░   89.73 %
-Prisma                   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Prisma                   █████████████████████████   99.93 %
+Python                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
