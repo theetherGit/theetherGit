@@ -42,13 +42,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2023 - To: 29 April 2023
+From: 23 April 2023 - To: 30 April 2023
 
-Python                     ████████████████████████▒   97.73 %
-textmate                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Text                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Bash                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Svelte                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
