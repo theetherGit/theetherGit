@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2023 - To: 03 December 2023
+From: 27 November 2023 - To: 04 December 2023
 
-Svelte                           ████████████████▓░░░░░░░░   67.10 %
-TypeScript                       ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-JavaScript                       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-TSConfig                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-GitIgnore file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Svelte                           █████████████████▓░░░░░░░   70.59 %
+TypeScript                       ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+JavaScript                       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+TSConfig                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+GitIgnore file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
