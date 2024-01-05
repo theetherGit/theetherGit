@@ -1,6 +1,5 @@
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/theetherGit/)
- -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/theetherGit/)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - :open_hands: I'm shivam meena from Delhi, India.
