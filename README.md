@@ -41,12 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
 TypeScript                     █████████████░░░░░░░░░░░░   51.70 %
 JSON                           ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
 JavaScript                     ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-Shell Script                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Shell Script                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 Bash                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 ```
 
