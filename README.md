@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2024 - To: 09 March 2024
+From: 03 March 2024 - To: 10 March 2024
 
 Shell Script                   █████████████▒░░░░░░░░░░░   52.98 %
 Bash                           ██████████▓░░░░░░░░░░░░░░   42.22 %
