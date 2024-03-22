@@ -41,11 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2024 - To: 20 March 2024
+From: 14 March 2024 - To: 21 March 2024
 
-Shell Script                   ████████████████████████▒   97.60 %
-Bash                           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-TypeScript                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Shell Script                   ████████████████████████▓   98.38 %
+Bash                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
