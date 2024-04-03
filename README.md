@@ -5,7 +5,7 @@
 - :open_hands: I'm Shivam Meena from Delhi, India.
 - :computer: I'm a Web Developer, code in Svelte, Typescript, Javascript and Python.
 - :pencil: I write on dev.to by the name [@theether0](https://dev.to/theether0).
-- :bell: I am working on a email service using cloudflare.
+- :bell: I am working on a email service for cloudflare.
 
 <h2>Things I code with</h2>
 <p> 
