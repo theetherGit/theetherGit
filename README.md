@@ -2,10 +2,10 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/theetherGit/)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- :open_hands: I'm shivam meena from Delhi, India.
-- :computer: I'm a Web Developer, code in Svelte, TS/JS and Python.
+- :open_hands: I'm Shivam Meena from Delhi, India.
+- :computer: I'm a Web Developer, code in Svelte, Typescript, Javascript and Python.
 - :pencil: I write on dev.to by the name [@theether0](https://dev.to/theether0).
-- :bell: I am working on Project Management and Bug Tracking System.
+- :bell: I am working on a email service using cloudflare.
 
 <h2>Things I code with</h2>
 <p> 
