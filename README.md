@@ -41,13 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Svelte                        ███████████████████░░░░░░   76.16 %
-Image (svg)                   ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-TypeScript                    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-JavaScript                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
