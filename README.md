@@ -41,9 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
-No activity tracked
+JavaScript                   █████████████████▓░░░░░░░   70.32 %
+JSON                         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Markdown                     ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Bash                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Text                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
