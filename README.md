@@ -41,13 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2025 - To: 29 May 2025
+From: 23 May 2025 - To: 30 May 2025
 
-TypeScript                   ████████░░░░░░░░░░░░░░░░░   32.01 %
-Svelte                       ███████░░░░░░░░░░░░░░░░░░   28.11 %
-JSON                         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-CSS                          ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
