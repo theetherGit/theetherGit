@@ -41,9 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-No activity tracked
+TypeScript                   ███████████░░░░░░░░░░░░░░   43.57 %
+YAML                         ██████████▒░░░░░░░░░░░░░░   41.15 %
+Markdown                     ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+Text                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
