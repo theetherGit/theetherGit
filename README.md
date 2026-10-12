@@ -62,13 +62,6 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
       <img alt="Downloads" src="https://img.shields.io/npm/dm/@ethercorps/sveltekit-redis-session?style=flat-square&logo=npm&color=BB9AF7&labelColor=1A1B27" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/Container-Kit/ContainerKit">Container Kit</a></h3>
-      <p>GUI for Apple's container CLI (work in progress).</p>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Container-Kit/ContainerKit?style=flat-square&logo=github&color=7AA2F7&labelColor=1A1B27" />
-    </td>
-  </tr>
 </table>
 
 ## :computer: Things I code with
@@ -90,13 +83,13 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-1A1B27?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
@@ -113,7 +106,9 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
 **Data**
 
 <p>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-1A1B27?style=for-the-badge&logo=drizzle&logoColor=C5F74F" />
 </p>
