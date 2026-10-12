@@ -46,7 +46,7 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
       <p>Open Graph images from HTML/CSS or Svelte components in SvelteKit, with no headless browser. Runs on Node, Deno, Vercel, Netlify and Cloudflare, with Satori and Takumi renderers.</p>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/sveltekit-og&npm=@ethercorps/sveltekit-og&theme=dark" />
-        <img alt="sveltekit-og stars, monthly downloads and version" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/sveltekit-og&npm=@ethercorps/sveltekit-og&theme=light" />
+        <img alt="sveltekit-og stars, monthly downloads and version" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/sveltekit-og&npm=@ethercorps/sveltekit-og&theme=light" height="24" />
       </picture>
     </td>
     <td width="50%" valign="top">
@@ -54,10 +54,8 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
       <p>Self-hosted email on your own Cloudflare account: threaded conversations, encryption at rest, scheduled and undo send, hide-my-email aliases and passkey sign-in. Featured in the official Svelte blog community showcase, August 2026.</p>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/doota&theme=dark" />
-        <img alt="Doota stars" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/doota&theme=light" />
+        <img alt="Doota stars" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/doota&theme=light" height="24" />
       </picture>
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/etherCorps/doota?style=flat-square&labelColor=132237&color=2A4A73" />
-      <img alt="Status" src="https://img.shields.io/badge/status-in_active_development-2A4A73?style=flat-square&labelColor=132237" />
     </td>
   </tr>
   <tr>
@@ -65,16 +63,16 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
       <h3><a href="https://github.com/theetherGit/un-jinja">un-jinja</a></h3>
       <p>Zero-dependency, Jinja2-compatible template engine for JavaScript.</p>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=theetherGit/un-jinja&npm=@ethercorps/un-jinja&show=downloads,version&theme=dark" />
-        <img alt="un-jinja monthly downloads and version" src="https://visit-counter-github.theether.in/api/repo?repo=theetherGit/un-jinja&npm=@ethercorps/un-jinja&show=downloads,version&theme=light" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=theetherGit/un-jinja&npm=@ethercorps/un-jinja&show=downloads%2Cversion&theme=dark" />
+        <img alt="un-jinja monthly downloads and version" src="https://visit-counter-github.theether.in/api/repo?repo=theetherGit/un-jinja&npm=@ethercorps/un-jinja&show=downloads%2Cversion&theme=light" height="24" />
       </picture>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/etherCorps/SK-Redis-SessionManager">SK Redis Session Manager</a></h3>
       <p>Redis-backed session management for SvelteKit.</p>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/SK-Redis-SessionManager&npm=@ethercorps/sveltekit-redis-session&show=stars,downloads&theme=dark" />
-        <img alt="SK Redis Session Manager stars and monthly downloads" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/SK-Redis-SessionManager&npm=@ethercorps/sveltekit-redis-session&show=stars,downloads&theme=light" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/SK-Redis-SessionManager&npm=@ethercorps/sveltekit-redis-session&show=stars%2Cdownloads&theme=dark" />
+        <img alt="SK Redis Session Manager stars and monthly downloads" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/SK-Redis-SessionManager&npm=@ethercorps/sveltekit-redis-session&show=stars%2Cdownloads&theme=light" height="24" />
       </picture>
     </td>
   </tr>
@@ -97,8 +95,8 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/languages?id=theetherGit&exclude=HTML,MDX,CSS&theme=dark" />
-    <img alt="Top languages by bytes" src="https://visit-counter-github.theether.in/api/languages?id=theetherGit&exclude=HTML,MDX,CSS&theme=light" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/languages?id=theetherGit&exclude=HTML%2CMDX%2CCSS&theme=dark" />
+    <img alt="Top languages by bytes" src="https://visit-counter-github.theether.in/api/languages?id=theetherGit&exclude=HTML%2CMDX%2CCSS&theme=light" width="100%" />
   </picture>
 </p>
 <p align="center">
