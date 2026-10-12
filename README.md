@@ -1,6 +1,11 @@
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theetherGit&data=followers,repositories,stars,commits&theme=mint)](https://github.com/theetherGit/)
+<a href="https://github.com/theetherGit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/profile?id=theetherGit&theme=dark" />
+    <img alt="Shivam Meena: followers, stars, contributions, npm downloads and profile views" src="https://visit-counter-github.theether.in/api/profile?id=theetherGit&theme=light" width="100%" />
+  </picture>
+</a>
 
 <a href="https://theether.in">
   <picture>
@@ -39,30 +44,38 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
     <td width="50%" valign="top">
       <h3><a href="https://github.com/etherCorps/sveltekit-og">sveltekit-og</a></h3>
       <p>Open Graph images from HTML/CSS or Svelte components in SvelteKit, with no headless browser. Runs on Node, Deno, Vercel, Netlify and Cloudflare, with Satori and Takumi renderers.</p>
-      <img alt="Stars" src="https://img.shields.io/github/stars/etherCorps/sveltekit-og?style=flat-square&logo=github&logoColor=3CD9C4&labelColor=132237&color=2A4A73" />
-      <img alt="Downloads" src="https://flat.badgen.net/npm/dm/@ethercorps/sveltekit-og?icon=npm&labelColor=132237&color=2A4A73" />
-      <img alt="Version" src="https://flat.badgen.net/npm/v/@ethercorps/sveltekit-og?labelColor=132237&color=2A4A73" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/sveltekit-og&npm=@ethercorps/sveltekit-og&theme=dark" />
+        <img alt="sveltekit-og stars, monthly downloads and version" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/sveltekit-og&npm=@ethercorps/sveltekit-og&theme=light" />
+      </picture>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/etherCorps/doota">Doota</a></h3>
       <p>Self-hosted email on your own Cloudflare account: threaded conversations, encryption at rest, scheduled and undo send, hide-my-email aliases and passkey sign-in. Featured in the official Svelte blog community showcase, August 2026.</p>
-      <img alt="Stars" src="https://img.shields.io/github/stars/etherCorps/doota?style=flat-square&logo=github&logoColor=3CD9C4&labelColor=132237&color=2A4A73" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/doota&theme=dark" />
+        <img alt="Doota stars" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/doota&theme=light" />
+      </picture>
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/etherCorps/doota?style=flat-square&labelColor=132237&color=2A4A73" />
       <img alt="Status" src="https://img.shields.io/badge/status-in_active_development-2A4A73?style=flat-square&labelColor=132237" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://www.npmjs.com/package/@ethercorps/un-jinja">un-jinja</a></h3>
+      <h3><a href="https://github.com/theetherGit/un-jinja">un-jinja</a></h3>
       <p>Zero-dependency, Jinja2-compatible template engine for JavaScript.</p>
-      <img alt="Downloads" src="https://flat.badgen.net/npm/dm/@ethercorps/un-jinja?icon=npm&labelColor=132237&color=2A4A73" />
-      <img alt="Version" src="https://flat.badgen.net/npm/v/@ethercorps/un-jinja?labelColor=132237&color=2A4A73" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=theetherGit/un-jinja&npm=@ethercorps/un-jinja&show=downloads,version&theme=dark" />
+        <img alt="un-jinja monthly downloads and version" src="https://visit-counter-github.theether.in/api/repo?repo=theetherGit/un-jinja&npm=@ethercorps/un-jinja&show=downloads,version&theme=light" />
+      </picture>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/etherCorps/SK-Redis-SessionManager">SK Redis Session Manager</a></h3>
       <p>Redis-backed session management for SvelteKit.</p>
-      <img alt="Stars" src="https://img.shields.io/github/stars/etherCorps/SK-Redis-SessionManager?style=flat-square&logo=github&logoColor=3CD9C4&labelColor=132237&color=2A4A73" />
-      <img alt="Downloads" src="https://flat.badgen.net/npm/dm/@ethercorps/sveltekit-redis-session?icon=npm&labelColor=132237&color=2A4A73" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/SK-Redis-SessionManager&npm=@ethercorps/sveltekit-redis-session&show=stars,downloads&theme=dark" />
+        <img alt="SK Redis Session Manager stars and monthly downloads" src="https://visit-counter-github.theether.in/api/repo?repo=etherCorps/SK-Redis-SessionManager&npm=@ethercorps/sveltekit-redis-session&show=stars,downloads&theme=light" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -77,11 +90,16 @@ I'm **Shivam Meena**, a senior software engineer in Hyderabad, India. I build an
 ## :bar_chart: GitHub stats
 
 <p align="center">
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theetherGit&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/activity?id=theetherGit&theme=dark" />
+    <img alt="Commits, pull requests, issues, reviews, streaks and a 26-week contribution heatmap" src="https://visit-counter-github.theether.in/api/activity?id=theetherGit&theme=light" width="100%" />
+  </picture>
 </p>
 <p align="center">
-  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theetherGit&theme=tokyonight" />
-  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theetherGit&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://visit-counter-github.theether.in/api/languages?id=theetherGit&exclude=HTML,MDX,CSS&theme=dark" />
+    <img alt="Top languages by bytes" src="https://visit-counter-github.theether.in/api/languages?id=theetherGit&exclude=HTML,MDX,CSS&theme=light" width="100%" />
+  </picture>
 </p>
 <p align="center">
   <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
